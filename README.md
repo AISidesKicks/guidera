@@ -171,7 +171,7 @@ MIT License — Build whatever you want with this template!
 
 ---
 
-### 🎉 [Join the GUIDERA Party(https://join.guidera.party)
+### 🎉 [Join the GUIDERA Party](https://join.guidera.party)
 ### 📂 [Explore Samples on GitHub](https://github.com/AISidesKicks/guidera-samples)
 
 **Made with ❤️ for aspiring Python developers**
