@@ -1,6 +1,6 @@
-# 🚀 Level Up Your Python Skills While Building Games!
+# 🚀 Level Up Your Python Skills (Building Games)!
 
-**GUIDERA** is an AI coding assistant template that teaches you professional development practices through **hands-on game development**.
+**GUIDERA** is an AI coding assistant template that teaches you some professional development practices through **hands-on game development**.
 
 > *"Learn by doing. Build by playing. Code like a pro."*
 
@@ -35,31 +35,31 @@ Pick a game to build and start learning! Each project teaches core Python concep
 **Explore dungeons, fight monsters, collect treasure!**
 - *Learn:* Dictionaries, map systems, random encounters
 - *Inspired by:* Zork, Colossal Cave Adventure
-- **[Start Building →](#get-started-in-60-seconds)**
+- **[Start Building →](#-get-started-in-60-seconds)**
 
 ### 🕵️ 2. Detective Mystery
 **Solve crimes by interviewing suspects and finding clues!**
 - *Learn:* Dialogue trees, JSON data, branching endings
 - *Inspired by:* Sherlock Holmes: Consulting Detective
-- **[Start Building →](#get-started-in-60-seconds)**
+- **[Start Building →](#-get-started-in-60-seconds)**
 
 ### 🏝️ 3. HorrorSurvival
 **Stranded on an island—survive by managing resources!**
 - *Learn:* Game loops, state management, crafting systems
 - *Inspired by:* The Oregon Trail
-- **[Start Building →](#get-started-in-60-seconds)**
+- **[Start Building →](#-get-started-in-60-seconds)**
 
 ### 🚀 4. SciFiExploration
 **Travel planets, trade goods, meet alien species!**
 - *Learn:* Procedural generation, diplomacy, random events
 - *Inspired by:* Elite, Star Trader
-- **[Start Building →](#get-started-in-60-seconds)**
+- **[Start Building →](#-get-started-in-60-seconds)**
 
 ### 🔐 5. PuzzleEscape
 **Escape locked rooms by solving mind-bending puzzles!**
 - *Learn:* Function design, state tracking, puzzle logic
 - *Inspired by:* The Room
-- **[Start Building →](#get-started-in-60-seconds)**
+- **[Start Building →](#-get-started-in-60-seconds)**
 
 ---
 
@@ -88,7 +88,9 @@ git clone https://github.com/AISidesKicks/guidera.git
 cd guidera/python-template
 
 # 2️⃣ Pick your game and start building!
-# Open this project with Kilo CLI: TAB to PLAN + ask it to GUIDE you and to follow instuctions in AGENTS.md
+# Open this project with Kilo CLI: 
+  - TAB to activate PLAN Agent 
+  - "Ask it to GUIDE you and to follow instuctions in AGENTS.md"
 ```
 
 ---
@@ -162,14 +164,14 @@ MIT License — Build whatever you want with this template!
 
 <div align="center">
 
-### 🎮 [Start Building Your First Game Now!](#get-started-in-60-seconds)
+### 🎮 [Start Building Your First Game Now!](#-get-started-in-60-seconds)
 
 *Ideas? [Open an issue](https://github.com/AISidesKicks/guidera/issues)*
 *Questions? [Open an issue](https://github.com/AISidesKicks/guidera/discussions)*
 
 ---
 
-### 🎉 [Join the Party on GitHub](https://github.com/AISidesKicks/guidera)
+### 🎉 [Join the GUIDERA Party(https://join.guidera.party)
 ### 📂 [Explore Samples on GitHub](https://github.com/AISidesKicks/guidera-samples)
 
 **Made with ❤️ for aspiring Python developers**
